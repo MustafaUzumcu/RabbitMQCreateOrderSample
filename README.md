@@ -1,6 +1,6 @@
 # C# RabbitMQ Sample
 
-Multiple Consumer and Channel Sample.
+Multiple Consumer and Multiple Channel Sample.
 
 ## Clear and Usefull RabbitMQCore.
 
